@@ -25,19 +25,20 @@ All component lists have to been given below.
 
 Component list - 
 
-1. PCB by JLCPCB
-2. 
-3. Transistor - BC 547
-4. 
-5. Capacitor - 47µf/ 25v
-6. 
-7. Resistor - 1 MΩ, 1 KΩ, 2.2 KΩ, 4.7 KΩ*2 and 220 Ω
-8. 
-9. Volume - B 100K
-10. 
-11. LED
-12. 
-13. Power Source - DC 12v
+•	PCB by JLCPCB
+
+•	Transistor - BC 547
+
+•	Capacitor - 47µf/ 25v
+
+•	Resistor - 1 MΩ, 1 KΩ, 2.2 KΩ, 4.7 KΩ*2 and 220 Ω
+
+•	Volume - B 100K
+
+•	LED
+
+•	Power Source - DC 12v
+
 
 
 Feature of BC-547 
