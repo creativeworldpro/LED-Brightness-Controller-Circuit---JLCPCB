@@ -40,7 +40,6 @@ Component list -
 •	Power Source - DC 12v
 
 
-
 Feature of BC-547 
 
 The BC547 is widely used general-purpose NPN bipolar junction transistor.
